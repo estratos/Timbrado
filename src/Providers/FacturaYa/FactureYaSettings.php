@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace PhpCfdi\Timbrado\Providers\FacturaYa;
+namespace PhpCfdi\Timbrado\Providers\FactureYa;
 
 use Webmozart\Assert\Assert;
 
